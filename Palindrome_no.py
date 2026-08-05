@@ -9,3 +9,6 @@ while num> 0:
   result = (result*10)+ last_digit
   num = num//10
 print( n == result)
+
+# Time Complexity - O(log(N))
+# Space complexity - O(1)
